@@ -665,7 +665,7 @@ button.button__581d0 /* small buttons */,
 	background-color: var(--dnd-indicator) !important;
 }
 [class^='winButtonMinMax']:nth-child(3)::after {
-	background-color: var(--online-indicator) !important;
+	background-color: hsl(190, 70%, 48%) !important;
 }
 [class^='winButtonMinMax']:nth-child(4)::after {
 	background-color: var(--idle-indicator) !important;
