@@ -1079,7 +1079,7 @@ html.theme-light,
 	--status-danger-text: var(--text-0);
 	--status-dnd: var(--red-400);
 	--status-idle: var(--yellow-300);
-	--status-offline: var(--primary-360);
+	--status-offline: hsl(0, 0%, 0%);
 	--status-online: var(--green-360);
 	--status-positive: var(--green-360);
 	--status-positive-background: var(--green-430);
