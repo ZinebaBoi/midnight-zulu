@@ -708,7 +708,7 @@ button.button__581d0 /* small buttons */,
 }
 /* custom dm button background instead of icon */
 .childWrapper_a6ce15:has(> svg:not(.favoriteIcon__901fa)) {
-	background: url('https://github.com/ZinebaBoi/midnight-zulu/blob/main/whitegur.png');
+	background: url('https://raw.githubusercontent.com/ZinebaBoi/midnight-zulu/main/whitegur.png');
 	background-color: transparent !important;
 	background-size: cover;
 }
